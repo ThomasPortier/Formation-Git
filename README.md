@@ -1,6 +1,8 @@
 # Formation-Git/GitHub 
 ======================
 
+<!-- Je me permet de rajouter un commentaire, ton read me est excellent -->
+
 ## Nothing to see here
 
 The project was part of a github training
