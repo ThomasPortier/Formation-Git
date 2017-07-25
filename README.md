@@ -6,9 +6,9 @@
 The project was part of a github training
 Here we learned how to properly write a Wiki
 
-..* _using italics_.
-..* _but also bold_.
-..* **and even combine _both_**.
+ _using italics_.
+ __but also bold__.
+ **and even combine _both_**.
 ..* and last but not least ~~to scrath~~
 ===================
 1. how about some lipsum
