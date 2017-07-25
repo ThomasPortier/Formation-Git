@@ -7,9 +7,13 @@ The project was part of a github training
 Here we learned how to properly write a Wiki
 
  _using italics_.
+ 
  __but also bold__.
+ 
  **and even combine _both_**.
+ 
 ..* and last but not least ~~to scrath~~
+
 ===================
 1. how about some lipsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin accumsan aliquet. Nulla id diam enim. Pellentesque ornare tristique venenatis. Ut luctus erat ac metus accumsan, vitae ultrices orci euismod. Maecenas elementum varius diam ut condimentum. Pellentesque porttitor, lectus quis convallis dignissim, nisl ligula viverra magna, vel bibendum tortor ante in lorem. Nullam at posuere orci. Pellentesque commodo non dui et sodales. Ut luctus enim at elit semper, quis mollis nulla commodo. Donec vel justo eget sapien facilisis egestas. Fusce quis est consequat, porttitor sapien sed, tristique nulla. 
